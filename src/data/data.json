@@ -1,0 +1,100 @@
+{
+    "Header": {
+
+        "title": "Do you need a landscape professional?",
+        "paragraph": "Contact us today!"
+
+    },
+    "About": {
+        "paragraph": "From design to installation and maintenance, we have a 50-year track record of completing projects on time, on budget, and ahead of schedule. Experienced, uniformed maintenance teams set the standard each day in planting, weed control, pruning, irrigation management, maintenance and repair, and fertilization. Weber’s Landscaping quality, creativity, and experience have enabled us to become one of the Alliance's premier residential landscape and lawn care companies. We are entrusted to maintain the grounds of many high-profile properties. All gardening and maintenance services are custom-designed to reflect a customer’s tastes and lifestyle.",
+        "Why": [
+            "100% Customer Satisfaction",
+            "Over 50 Years Of Experience"
+        ],
+        "Why2": [
+            "Honesty And Integrity",
+            "Safe, Reliable And Dependable"
+        ]
+    },
+    "Services": [{
+            "icon": "img/wheelbarrel.png",
+            "name": "Landscape Maintenace",
+            "text": "Ongoing maintenance of your landscape beds is more than just edging and mulching in the Spring. Maintenance is key to achieving your landscapes full potential."
+        },
+        {
+            "icon": "img/lawn-icon-12.png",
+            "name": "Lawn Maintenance",
+            "text": "Weber's Landscaping provides a professional cutting of the lawn on a strict seven day schedule with permitting weather."
+        },
+        {
+            "icon": "img/landscapeDesign.png",
+            "name": "Landscape Design",
+            "text": "From a full outdoor living experience to a simple patio design, we have the experience to bring your ideas to reality."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Highly recommend! All of the workers were all professional and friendly. Elmer was patient and informative throughout, from the planning stages to the final product. Our lawn and patio look even better than we imagined!\"",
+            "name": "John Whitlock"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Thanks so much for the excellent work and care for our project. Also I would like to thank you for the care, friendly and appreciate the way your workers worked with us.\"",
+            "name": "William Christian"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Weber’s Landscaping did a beautiful job on our backyard. They were very professional, and had great ideas on how to best use our space.\"",
+            "name": "Jim Buckmyer"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Elmer Weber",
+            "job": "Owner"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Steve Weber",
+            "job": "Laborer / Lawn Crew"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jax Weber",
+            "job": "Laborer / Landscape Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Bella Weber",
+            "job": "Office Manager"
+        }
+    ],
+    "Contact": {
+        "address": "6456 Union Ave, Alliance, OH 44601 ",
+        "phone": "330 821 0109",
+        "email": "info@weberslandscaping.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
